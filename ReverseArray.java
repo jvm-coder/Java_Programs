@@ -11,23 +11,22 @@ import java.util.Scanner;
  *
  * @author Shanmuga Priya M
  */
-public class reversearray {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
+public static void main(String[] args) {
         int a[]=new int[10];
+        int riv_a[]=new int[10];
         int n,i;
         Scanner obj= new Scanner(System.in);
-        System.out.println("enter sizr of array");
+        System.out.println("enter size of array : ");
         n=obj.nextInt();
-        System.out.println("enter elements of array");
+        System.out.println("enter elements of array : ");
         for(i=0;i<n;i++){
             a[i]=obj.nextInt();
         }
-        for(i=n-1;i>=0;i--){
-            System.out.println(a[i]); 
+        for(i=0;i<n;i++){
+            riv_a[i]=a[n-1-i];
+        }
+        for(i=0;i<n;i++){
+            System.out.println(riv_a[i]);
         }
     }
     
