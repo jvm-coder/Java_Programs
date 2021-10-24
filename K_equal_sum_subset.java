@@ -34,6 +34,6 @@ public class K_equal_sum_subset {
             return false;
         //visited array to keep track where an element is already a part of a subset or not
         boolean visited[]=new boolean[nums.length];
-        return helpInPartition(nums,visited,0,k,0,s/k);
+        return helpInPartition(nums,visited,0,k,0,sum/k);
     }
 }
