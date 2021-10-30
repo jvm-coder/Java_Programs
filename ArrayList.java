@@ -18,6 +18,10 @@ public class ArrayList
 		System.out.println(arr);
 		//acessing the element by index -->method get(i)
 		System.out.println(arr.get(2));
+		//To print the elements or ArrayList.(enhanced loop is used)
+		for(int element : arr){
+			System.out.println(element);
+		}
 		
 	}
 }
