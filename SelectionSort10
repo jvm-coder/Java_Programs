@@ -1,0 +1,41 @@
+import java.io.*;
+
+public class SelectionSort10 {
+	public static void selsort(int A[]) {
+		int i, j, small, tmp, pos;
+		for (i = 0; i < 10; i++) {
+			small = A[i];
+			pos = i;
+			for (j = i + 1; j < 10; j++) {
+				if (A[j] < small) {
+					small = A[j];
+					pos = j;
+				}
+			}
+			tmp = A[i];
+			A[i] = A[pos];
+			A[pos] = tmp;
+		}
+		System.out.println("Array in ascending order=");
+		for (i = 0; i < 10; i++)
+			System.out.println(A[i]);
+	}
+
+	public static void main(String[] args) {
+		int A[] = new int[10];
+		BufferedReader buf = new BufferedReader(new InputStreamReader(System.in));
+		String inStr = null;
+		System.out.println("Enter 10 elements of array=");
+		try {
+			for (int i = 0; i < 10; i++) {
+				inStr = buf.readLine();
+				A[i] = Integer.parseInt(inStr);
+			}
+		} catch (Exception e) {
+			System.out.println("Error in data entry");
+			System.out.println("Exception=" + e);
+			return;
+		}
+		selsort(A);
+	}
+}
