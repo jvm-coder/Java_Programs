@@ -1,0 +1,1754 @@
+[33mcommit a9d6cb04b1c5f559121856dda944c38d59bf47d1[m[33m ([m[1;36mHEAD -> [m[1;32mnew-branch[m[33m)[m
+Author: itsEobard2025 <atharva.pise19@gmail.com>
+Date:   Sun Oct 31 09:48:15 2021 +0530
+
+    Added a new haiku in poetry.md file
+
+[33mcommit 9c663b4be4581f3c02c4a68dc20c44d493b2df65[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: ffb996d 878130b
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sat Oct 30 16:30:56 2021 +0530
+
+    Merge pull request #109 from Assassin-compiler/main
+    
+    Create CircularLinkedlist.cpp
+
+[33mcommit 878130bccdc35d6549fa73dea2f2a1deb891f4b2[m
+Author: Assassin-compiler <70448612+Assassin-compiler@users.noreply.github.com>
+Date:   Sat Oct 30 16:29:15 2021 +0530
+
+    Create CircularLinkedlist.cpp
+
+[33mcommit ffb996d0d465df6275b1bb9e2279ed954ef2e01a[m
+Merge: 511fcd9 6be6ee7
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sat Oct 30 12:23:03 2021 +0530
+
+    Merge pull request #108 from Assassin-compiler/main
+    
+    Create Subarrays.cpp
+
+[33mcommit 6be6ee7cb936fb2d7a1be3636f7e2b31583e3cb5[m
+Author: Assassin-compiler <70448612+Assassin-compiler@users.noreply.github.com>
+Date:   Sat Oct 30 12:22:03 2021 +0530
+
+    Create Subarrays.cpp
+
+[33mcommit 511fcd9e697955621b65b8a7e695c6156866fa9d[m
+Merge: a589f14 6a00544
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sat Oct 30 12:16:11 2021 +0530
+
+    Merge pull request #107 from Assassin-compiler/main
+    
+    Create range.cpp
+
+[33mcommit 6a00544099f04f160fd08bc62ab3f44446bead32[m
+Author: Assassin-compiler <70448612+Assassin-compiler@users.noreply.github.com>
+Date:   Sat Oct 30 12:15:14 2021 +0530
+
+    Create range.cpp
+
+[33mcommit a589f14669a4d5b7a495e9c84be563dbe9a25242[m
+Merge: bfe9e75 83bed70
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sat Oct 30 12:13:38 2021 +0530
+
+    Merge pull request #106 from Assassin-compiler/main
+    
+    Create triplets.cpp
+
+[33mcommit 83bed704d970691e6d3a3b646d004e0a5a64eac2[m
+Author: Assassin-compiler <70448612+Assassin-compiler@users.noreply.github.com>
+Date:   Sat Oct 30 12:12:21 2021 +0530
+
+    Create triplets.cpp
+
+[33mcommit bfe9e757f9373c1aa635f39ee0a51816e3213349[m
+Merge: 23534ff f8a975a
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sat Oct 30 03:07:26 2021 +0530
+
+    Merge pull request #105 from PandaWire/main
+    
+    Create PalindromicNumber.java
+
+[33mcommit 23534ff0374796be783ac08599447ae4f242f7cb[m
+Merge: 34483e9 473c349
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sat Oct 30 03:07:03 2021 +0530
+
+    Merge pull request #104 from rajniarora26/patch-3
+    
+    Add PrimsAlgo.java
+
+[33mcommit f8a975a858c47ebbe9f7cceff1cc54b9145066d0[m
+Author: Andrew Pai <88261387+PandaWire@users.noreply.github.com>
+Date:   Fri Oct 29 13:38:25 2021 -0700
+
+    Create PalindromicNumber.java
+
+[33mcommit 473c3499d6cde3f024c0e734d17c9fa8b092e85e[m
+Author: rajniarora26 <72189047+rajniarora26@users.noreply.github.com>
+Date:   Sat Oct 30 00:43:01 2021 +0530
+
+    Add PrimsAlgo.java
+    
+    Program for Prim's Algorithm
+
+[33mcommit 34483e957905d2a019c24eb41e2142ae611107a2[m
+Merge: e8f7b40 7a0f2dc
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Fri Oct 29 23:47:20 2021 +0530
+
+    Merge pull request #103 from madhav1928/main
+    
+    Add files via upload
+
+[33mcommit e8f7b4026d4e34237aad7547c41a3f494c54524f[m
+Merge: 74e2b76 866c836
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Fri Oct 29 23:47:00 2021 +0530
+
+    Merge pull request #102 from rajniarora26/patch-1
+    
+    Add BottomView.java
+
+[33mcommit 74e2b76d2d5312b4fbc533a23f85ed109dbadff2[m
+Merge: bab03be ef5cc63
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Fri Oct 29 23:46:36 2021 +0530
+
+    Merge pull request #101 from Anuragjain20/arj
+    
+    added diamond pattern program
+
+[33mcommit 7a0f2dc6cd68685a02c852b38ce96ce9faf9a0d5[m
+Author: Madhav <56249178+madhav1928@users.noreply.github.com>
+Date:   Fri Oct 29 23:29:21 2021 +0530
+
+    Add files via upload
+
+[33mcommit 866c836c2953e741cdea622dbba2111401ebc229[m
+Author: rajniarora26 <72189047+rajniarora26@users.noreply.github.com>
+Date:   Fri Oct 29 22:05:14 2021 +0530
+
+    Add BottomView.java
+    
+    Program to print bottom view of a binary tree.
+
+[33mcommit ef5cc639b6f2fc7d63a2dba8d20f3fba1f454db7[m
+Author: Anurag <anuragjain2rr@gmail.com>
+Date:   Fri Oct 29 21:40:22 2021 +0530
+
+    added diamond pattern program
+
+[33mcommit bab03be437a57295cd8783042c83b39b64929e1d[m
+Merge: 281731e 3b451f1
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Fri Oct 29 12:44:27 2021 +0530
+
+    Merge pull request #100 from lkmSasanga/main
+    
+    search an element in a Circular Linked List
+
+[33mcommit 281731ed1f792c92db12302a73151ebe1bcc500e[m
+Merge: 7ab36d3 a49ba75
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Fri Oct 29 12:44:04 2021 +0530
+
+    Merge pull request #99 from neetukhanna11/patch-1
+    
+    Committing BinaryTree.java
+
+[33mcommit 3b451f1f026658d30d29e76049ba51f63826ed72[m
+Author: Malindu Sasanga <lkmsasanga@gmail.com>
+Date:   Fri Oct 29 12:35:06 2021 +0530
+
+    search an element in a Circular Linked List
+    
+    Java program to search an element in a Circular Linked List
+
+[33mcommit a49ba759096e0f892ff8769861f6cf51ef21d341[m
+Author: neetukhanna11 <72187682+neetukhanna11@users.noreply.github.com>
+Date:   Fri Oct 29 10:32:03 2021 +0530
+
+    Committing BinaryTree.java
+    
+    Program to print Top View of a Binary Tree
+
+[33mcommit 7ab36d332e5abc2a7c75255449cc44cace31fc51[m
+Merge: 2dbd83c f995a04
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Fri Oct 29 01:50:57 2021 +0530
+
+    Merge pull request #98 from jhanna60/main
+    
+    Adding a heapsort algorithm
+
+[33mcommit f995a04241410e1a5e72289700ec5aa6b2e4420a[m
+Author: john hanna <jhanna60@hotmail.com>
+Date:   Thu Oct 28 19:07:34 2021 +0100
+
+    Adding a heapsort algorithm
+
+[33mcommit 2dbd83c8470f8761e373d96cda28747ad286fef3[m
+Merge: a0a0d34 acfbaad
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 23:26:17 2021 +0530
+
+    Merge pull request #95 from Nehansh10/dev
+    
+    Last Digit of Fibonnaci
+
+[33mcommit a0a0d34200e7300839f2854bf2d20d3cb31ec92c[m
+Merge: e40589c 56aa950
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 23:25:55 2021 +0530
+
+    Merge pull request #96 from eby8zevin/patch-1
+    
+    Create Searching.java
+
+[33mcommit e40589cd2a6acd38eb5675c0493eb5cdc3b27e4c[m
+Merge: 540e2da 5b61e7f
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 23:25:25 2021 +0530
+
+    Merge pull request #97 from vanditkhurana1/patch-1
+    
+    Committing SpiralMatrix.java
+
+[33mcommit 5b61e7fce61e8d50ad58ef04f36ba48cd6a7af5a[m
+Author: vanditkhurana1 <92248205+vanditkhurana1@users.noreply.github.com>
+Date:   Thu Oct 28 21:24:33 2021 +0530
+
+    Committing SpiralMatrix.java
+
+[33mcommit 56aa9502992c6897a279d3ee9a627a7e07070f07[m
+Author: احمد ابو حسن <36786100+eby8zevin@users.noreply.github.com>
+Date:   Thu Oct 28 22:33:34 2021 +0700
+
+    Create Searching.java
+
+[33mcommit acfbaada5d4dc415623a106dbba22cec8099dfd6[m
+Author: Nehansh10 <nishuj99.com@gmail.com>
+Date:   Thu Oct 28 20:55:21 2021 +0530
+
+    Last Digit of Fibonnaci
+
+[33mcommit 540e2dabbbfb2eae37b5603abd737dc73e686693[m
+Merge: 9fbc959 e97cdb2
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 20:41:20 2021 +0530
+
+    Merge pull request #94 from eby8zevin/main
+    
+    Create Calculator.java
+
+[33mcommit 9fbc9594a7873b1e1d4e2f8c54dd6f89c85397d1[m
+Merge: ddc8a74 08f6b22
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 20:40:56 2021 +0530
+
+    Merge pull request #93 from harshalkh/patch-1
+    
+    Create BucketSort.java
+
+[33mcommit e97cdb2be169f89d4a8d970b1b692f2a7cd80f71[m
+Author: احمد ابو حسن <36786100+eby8zevin@users.noreply.github.com>
+Date:   Thu Oct 28 22:02:38 2021 +0700
+
+    Create Calculator.java
+
+[33mcommit 08f6b22411857448fde28f89e37666944234f2de[m
+Author: Harshal <37841724+harshalkh@users.noreply.github.com>
+Date:   Thu Oct 28 19:49:44 2021 +0530
+
+    Create BucketSort.java
+    
+    Bucket sort in java
+
+[33mcommit ddc8a74563b899e7f184d5209065ff16c87022a6[m
+Merge: 106167e 4ec4a02
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 18:35:31 2021 +0530
+
+    Merge pull request #92 from gandharva-gk/main
+    
+    Binary Search
+
+[33mcommit 4ec4a024456e16dcaa08404576f852bba6caa60f[m
+Author: gandharva <you@example.com>
+Date:   Thu Oct 28 18:30:36 2021 +0530
+
+    Binary Search
+
+[33mcommit 106167eb722f4ca832d3e0a660ddc2aff875818d[m
+Merge: ba394c0 58a2cc4
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 18:01:21 2021 +0530
+
+    Merge pull request #91 from gandharva-gk/main
+    
+    Merge Two Sorted Lists
+
+[33mcommit 58a2cc462c2158090ae475013f7ee3b736668a13[m
+Author: gandharva <you@example.com>
+Date:   Thu Oct 28 17:36:39 2021 +0530
+
+    Merge Two Sorted Lists
+
+[33mcommit ba394c09842a23e8214dd7bf7003018faf363127[m
+Merge: 0adf103 5ae4bc9
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 13:30:04 2021 +0530
+
+    Merge pull request #90 from andikscript/main
+    
+    add data structure graphs FloydWarshall
+
+[33mcommit 5ae4bc9e8e66decbeb3b1d88b89d89868d7a6574[m
+Author: andikscript <andikscript@gmail.com>
+Date:   Thu Oct 28 13:51:26 2021 +0700
+
+    add data structure graphs FloydWarshall
+
+[33mcommit 0adf103da1120faac8c3b8bbe1aab2d08f614a26[m
+Merge: f25a5c6 1e745d3
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 12:12:32 2021 +0530
+
+    Merge pull request #89 from andikscript/main
+    
+    add algorithm cipher RSA
+
+[33mcommit 1e745d34732e0bd4f9301de76136dd20f2edbebe[m
+Author: andikscript <andikscript@gmail.com>
+Date:   Thu Oct 28 13:32:55 2021 +0700
+
+    add algorithm cipher RSA
+
+[33mcommit f25a5c673ee2f30be441fa8e47c9cc1ee32827ee[m
+Merge: 1949140 06d7e06
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 11:49:42 2021 +0530
+
+    Merge pull request #88 from dayagct/main
+    
+    Catalan number upload
+
+[33mcommit 1949140dd3e7dac65d144c9affc70e32a30bb05c[m
+Merge: 91d8380 02405ee
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 11:48:48 2021 +0530
+
+    Merge pull request #87 from andikscript/main
+    
+    add algorithm radix sort
+
+[33mcommit 91d8380718ef2e9ab5658e98bb5c0d5756dca035[m
+Merge: 9614a19 6cd486e
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 11:43:01 2021 +0530
+
+    Merge pull request #86 from ShreyasAnish/main
+    
+    Create TrafficLight.java
+
+[33mcommit 9614a19d736c6e870a35ab8350d48fbfa774b935[m
+Merge: 673b959 081b3ed
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 11:42:36 2021 +0530
+
+    Merge pull request #85 from SahanChan/main
+    
+    hacktoberfest2021SahanChan
+
+[33mcommit 673b9595bcd1d3fb347b53c1a7a4753d827fddec[m
+Merge: 712e924 050a5c1
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 28 11:42:08 2021 +0530
+
+    Merge pull request #84 from vanditkhurana/patch-1
+    
+    Committing KadanesAlgo.java
+
+[33mcommit 06d7e0636b0e5985b2c0d0f5ee1417806d4630e8[m
+Author: dayagct <91879871+dayagct@users.noreply.github.com>
+Date:   Thu Oct 28 09:19:09 2021 +0530
+
+    Add files via upload
+    
+    Added Java program for Catalan numbers
+
+[33mcommit 02405eee192c84befc28c6da082df21e4e514c5d[m
+Author: andikscript <andikscript@gmail.com>
+Date:   Thu Oct 28 07:22:21 2021 +0700
+
+    add algorithm radix sort
+
+[33mcommit 6cd486ecdc49c18f9548106882ab88b8c5ebd755[m
+Author: ShreyasAnish <65059923+ShreyasAnish@users.noreply.github.com>
+Date:   Thu Oct 28 01:33:14 2021 +0530
+
+    Create TrafficLight.java
+    
+    A program to simulate the red, yellow and green lights in a traffic signal using Java Swing.
+
+[33mcommit 081b3ed7f99026a81dbbc3ab12b215dacc2dced0[m
+Author: Sahan Chan <xnscb8.chandrabahu@gmail.com>
+Date:   Wed Oct 27 23:02:45 2021 +0530
+
+    hacktoberfest2021SahanChan
+
+[33mcommit 050a5c1d6d6ce0304ab40aaf395f9f8eff6a0514[m
+Author: Vandit <52314194+vanditkhurana@users.noreply.github.com>
+Date:   Wed Oct 27 23:02:19 2021 +0530
+
+    Committing KadanesAlgo.java
+
+[33mcommit 712e92496fba3aa71a8f04e45b350d172e2beec5[m
+Merge: 4c27349 e79ed8d
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Wed Oct 27 22:52:18 2021 +0530
+
+    Merge pull request #82 from shubhamSM1298/main
+    
+    Circular Queue
+
+[33mcommit 4c27349c1a3f5bd2132bc7de5a90e1d69b1a171e[m
+Merge: 639143e 70fc510
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Wed Oct 27 22:51:55 2021 +0530
+
+    Merge pull request #83 from prateekgargX/main
+    
+    RSA Algorithm in JAVA
+
+[33mcommit 70fc5109353852bc7894877391f9f7f24347be1e[m
+Author: prateekgargX <prateekgargX@protonmail.com>
+Date:   Wed Oct 27 20:14:41 2021 +0530
+
+    RSA Algorithm in JAVA
+
+[33mcommit e79ed8d527c8f7ef49abbc62ede882ae00fbb28d[m
+Author: Shubham Mallya <91719093+shubhamSM1298@users.noreply.github.com>
+Date:   Tue Oct 26 11:20:36 2021 +0530
+
+    Circular Queue
+    
+    pls check it
+
+[33mcommit 639143e2cde653d4dca67b9c98f47949e29c73a3[m
+Merge: 2ef0b76 63b92ff
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Tue Oct 26 11:19:16 2021 +0530
+
+    Merge pull request #81 from AdityaRawat07/main
+    
+    Buzz.java
+
+[33mcommit 2ef0b76ac184d4128d2731e98eeb33358b254c31[m
+Merge: 0e66ad7 4e40329
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Tue Oct 26 11:18:57 2021 +0530
+
+    Merge pull request #80 from rnzit/patch-1
+    
+    Create ReverseString.java
+
+[33mcommit 0e66ad7c39d6e69f202924b50a5a6357807660c6[m
+Merge: 4c18ea4 ef7bb7a
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Tue Oct 26 11:18:41 2021 +0530
+
+    Merge pull request #79 from ana-pat/patch-1
+    
+    Kasturba.java
+
+[33mcommit 4c18ea415e87ee1f3b4653b8e86ee0849ca78f38[m
+Merge: 1ccc528 6d46cb9
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Tue Oct 26 11:18:00 2021 +0530
+
+    Merge pull request #78 from sahooankeeta/main
+    
+    added k equal sum subsets
+
+[33mcommit 1ccc528a378b46d5b52b3ab6f9900f4153a403ab[m
+Merge: 9379b5a 0c0e1e3
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Tue Oct 26 11:17:35 2021 +0530
+
+    Merge pull request #77 from sanju2/main
+    
+    BogoSort.java Added
+
+[33mcommit 9379b5a67970609ef028cffc70494f936caad014[m
+Merge: 0ce32fd fe2f9ad
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Tue Oct 26 11:16:54 2021 +0530
+
+    Merge pull request #76 from anjupriya-v/main
+    
+    Anagram
+
+[33mcommit 0ce32fd97375a45297fa02ad07a5ef2f49c9b05e[m
+Merge: ca35182 7b2def2
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Tue Oct 26 11:16:23 2021 +0530
+
+    Merge pull request #75 from Sachin-Liyanage/main
+    
+    Program for Tower of Hanoi
+
+[33mcommit ca35182cba403921f69c173839a169beff0cefe4[m
+Merge: 980a238 7af3552
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Tue Oct 26 11:16:03 2021 +0530
+
+    Merge pull request #74 from krittin1/main
+    
+    :sparkles: [feat]: add GuessingGame program
+
+[33mcommit 980a238f4f8145c48ee65d30fb7df6b77ab10e24[m
+Merge: 6b72837 4dde16c
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Tue Oct 26 11:15:35 2021 +0530
+
+    Merge pull request #73 from Yasas4D/main-oop-concepts
+    
+    Add main OOP concepts
+
+[33mcommit 6b72837b5114d88625e86c0e063155c5a32a1e24[m
+Merge: d9b8924 be8b463
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Tue Oct 26 11:14:45 2021 +0530
+
+    Merge pull request #72 from adithyarjndrn/main
+    
+    DECimal2Hexa
+
+[33mcommit 63b92ffe6aedaaf7e9aba6f0092f7ae64862b506[m
+Author: AdityaRawat07 <92925758+AdityaRawat07@users.noreply.github.com>
+Date:   Mon Oct 25 22:25:38 2021 +0530
+
+    Buzz.java
+
+[33mcommit 4e40329c43407238d168412fc89e2cb277350889[m
+Author: rnzit <32677893+rnzit@users.noreply.github.com>
+Date:   Mon Oct 25 22:48:06 2021 +0700
+
+    Create ReverseString.java
+
+[33mcommit ef7bb7ac86d3dfc89f6ddb7b5df0e8f10a89c0a2[m
+Author: Ananya Pathak <54628162+ana-pat@users.noreply.github.com>
+Date:   Mon Oct 25 14:21:02 2021 +0530
+
+    Kasturba.java
+    
+    Implements Kasturba Algorithm for Matrix Multiplication
+
+[33mcommit 6d46cb9dd743859248e55379860f7fc712bea788[m
+Author: Ankeeta Sahoo <sahooankeeta@gmail.com>
+Date:   Sun Oct 24 21:59:22 2021 +0530
+
+    added k equal sum subset
+
+[33mcommit 0c0e1e337a62d2210aa54cc4f5cb7cd1422cbe6d[m
+Author: lasantha96 <lsanjeewa947@gmail.com>
+Date:   Sun Oct 24 21:54:09 2021 +0530
+
+    BogoSort.java Added
+
+[33mcommit f86c8b588ce1bfb44e21aaba7179b337b900b48b[m
+Author: Ankeeta Sahoo <sahooankeeta@gmail.com>
+Date:   Sun Oct 24 21:49:02 2021 +0530
+
+    added k equal sum subsets
+
+[33mcommit fe2f9ad0186185d82d4e4707040722ce180ffd03[m
+Author: Anju Priya V <84177086+anjupriya-v@users.noreply.github.com>
+Date:   Sun Oct 24 21:28:19 2021 +0530
+
+    Add files via upload
+
+[33mcommit 7b2def2196f913e33665ebbebf8acef850fbe152[m
+Author: Sachin Liyanage <59449070+Sachin-Liyanage@users.noreply.github.com>
+Date:   Sun Oct 24 21:10:13 2021 +0530
+
+    Program for Tower of Hanoi
+
+[33mcommit 7af35521ddef4c929770bb10d2b14a8aeb0c0554[m
+Author: Arty                Kanok <krittin.kan1@ku.th>
+Date:   Sun Oct 24 18:15:23 2021 +0700
+
+    :sparkles: [feat]: add Hangman.java
+
+[33mcommit b676c29f699c3b387aa0de9ba50a6cb2b332b609[m
+Author: Arty                Kanok <krittin.kan1@ku.th>
+Date:   Sun Oct 24 18:08:53 2021 +0700
+
+    :sparkles: [feat]: add WordMatch.java
+
+[33mcommit c7908ff590c59293e73e7b1a8de675284e7ab816[m
+Author: Arty                Kanok <krittin.kan1@ku.th>
+Date:   Sun Oct 24 18:07:42 2021 +0700
+
+    :sparkles: [feat]: add GuessingGame program
+
+[33mcommit 4dde16c31025ff6127a100f9e2d22fc22412154a[m
+Author: Yasas Sandeepa <yasassandeepa007@gmail.com>
+Date:   Sun Oct 24 12:39:37 2021 +0530
+
+    Add main OOP concepts
+
+[33mcommit be8b4635890f16e7ef26156fa1dcc107d8d1ed58[m
+Author: adithyarjndrn <you@example.com>
+Date:   Sun Oct 24 05:41:21 2021 +0530
+
+    DECimal2Hexa
+
+[33mcommit d9b892440d9388667634e43e866b6f374d9330ba[m
+Merge: e0d3cc0 fa97914
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Fri Oct 22 22:54:55 2021 +0530
+
+    Merge pull request #70 from gandharva-gk/main
+    
+    Djikstra Algorithm in Java
+
+[33mcommit fa97914321137081345834ab75096986683b01c0[m
+Author: gandharva <you@example.com>
+Date:   Fri Oct 22 19:12:27 2021 +0530
+
+    Djikstra Algorithm in Java
+
+[33mcommit e0d3cc02ac6409c2dfb226e701bb24ab57094a3a[m
+Merge: 0f2f250 a2208d4
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 21 20:16:57 2021 +0530
+
+    Merge pull request #69 from DushyanthaAT/main
+    
+    Fibonacci.java
+
+[33mcommit a2208d4c3f23daebc19596278991e7a2d281fdd9[m
+Author: Dushyantha Thilakarathne <dushyanthaat@gmail.com>
+Date:   Thu Oct 21 17:07:45 2021 +0530
+
+    Fibonacci.java
+    
+    Updated this code to get user input and print Fibonacci series
+
+[33mcommit 0f2f25004b029d5144f7e44d87f2c55fa96ea331[m
+Merge: d3a9ff9 cd0d89f
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Thu Oct 21 08:23:13 2021 +0530
+
+    Merge pull request #68 from Amrutha26/main
+    
+    added java file
+
+[33mcommit cd0d89f3bf0bfc5b43c1c88cf9cb2d217e53e8e0[m
+Author: Amrutha <62595123+Amrutha26@users.noreply.github.com>
+Date:   Thu Oct 21 04:51:41 2021 +0530
+
+    added java file
+
+[33mcommit d3a9ff972ef4aa4d9f9a30243ca5eda1482758f2[m
+Merge: 89c336d f1d9371
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Wed Oct 20 22:31:54 2021 +0530
+
+    Merge pull request #66 from DushyanthaAT/main
+    
+    ReverseArray.java
+
+[33mcommit 89c336da7a484a5bbc64fcf1d703fc2a97920f08[m
+Merge: bda2033 45ac778
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Wed Oct 20 22:30:50 2021 +0530
+
+    Merge pull request #67 from Amrutha26/main
+    
+    added java file
+
+[33mcommit 45ac778db38eb9a6fcbd852b8f32bbcc1685e610[m
+Author: Amrutha <62595123+Amrutha26@users.noreply.github.com>
+Date:   Wed Oct 20 18:55:35 2021 +0530
+
+    added java file
+
+[33mcommit f1d9371e820d2cf42535b65aa112cb3f5d4d5fa1[m
+Author: Dushyantha Thilakarathne <dushyanthaat@gmail.com>
+Date:   Wed Oct 20 13:55:11 2021 +0530
+
+    ReverseArray.java
+    
+    I have updated this code for saving the reversed array.
+
+[33mcommit bda2033ec2f8818d71e0279add11c63e3f22f27d[m
+Merge: c2b980b f0a25ff
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Wed Oct 20 12:57:16 2021 +0530
+
+    Merge pull request #60 from skmodi649/Add-StackSorting.java
+    
+    Create StackSorting.java
+
+[33mcommit c2b980bea6ba65759ecd5b43631d2063f9fa8c27[m
+Merge: 3547cdb 7e7bf5e
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Wed Oct 20 12:56:44 2021 +0530
+
+    Merge pull request #61 from skmodi649/Add-DigitalRoot.java
+    
+    Create DigitalRoot.java
+
+[33mcommit 3547cdb0a35c1d7d797dc5094cc5c8edca68bed5[m
+Merge: 8a8b10f b30afe1
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Wed Oct 20 12:56:25 2021 +0530
+
+    Merge pull request #62 from kashishahuja2002/Kashish
+    
+    KBC quiz
+
+[33mcommit 8a8b10f8f70c294ac67e2d974db91871fc1b9897[m
+Merge: 492e182 ddb9efa
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Wed Oct 20 12:56:04 2021 +0530
+
+    Merge pull request #63 from Amrutha26/main
+    
+    Rotated Binary Search
+
+[33mcommit 492e182c8db10f383b51da215a2916896ea80433[m
+Merge: 27e2a03 538851e
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Wed Oct 20 12:55:44 2021 +0530
+
+    Merge pull request #65 from DiSousaDev/java_readme
+    
+    Java readme
+
+[33mcommit 538851e1cb306419319f92f40dc6a8d0e0497de8[m
+Author: Eder Diego de Sousa <eder.diego@foursys.com.br>
+Date:   Tue Oct 19 14:51:39 2021 -0300
+
+    Add readme
+
+[33mcommit 063b9da1a8af8b23785356f5d4017f932159a0e0[m
+Author: Eder Diego de Sousa <eder.diego@foursys.com.br>
+Date:   Tue Oct 19 14:35:51 2021 -0300
+
+    Add an ArrayListString example
+
+[33mcommit ddb9efaf474dc5b1708db2b1a68f5c32671f9b3a[m
+Author: Amrutha <62595123+Amrutha26@users.noreply.github.com>
+Date:   Mon Oct 18 18:46:23 2021 +0530
+
+    added java file
+
+[33mcommit 0ed87b0ab70fabbe9ac22303520677a183ca6022[m
+Author: Amrutha <62595123+Amrutha26@users.noreply.github.com>
+Date:   Mon Oct 18 18:40:10 2021 +0530
+
+    added java file
+
+[33mcommit b30afe1db92c262c20abe0e150801789f33ff563[m
+Author: Kashish Ahuja <kashish.ahuja-IT-2K19-24@iips.edu.in>
+Date:   Mon Oct 18 18:10:13 2021 +0530
+
+    KBC quiz
+
+[33mcommit 7e7bf5ea3ffae30c759c8741f135672c2c32d3d1[m
+Author: Suraj Kumar Modi <76468931+skmodi649@users.noreply.github.com>
+Date:   Sun Oct 17 20:14:51 2021 +0530
+
+    Create DigitalRoot.java
+
+[33mcommit f0a25ff51e4444b2b305bee1d56c47522f10106a[m
+Author: Suraj Kumar Modi <76468931+skmodi649@users.noreply.github.com>
+Date:   Sun Oct 17 20:03:18 2021 +0530
+
+    Create StackSorting.java
+
+[33mcommit 27e2a03a332d295b6c9f1c6c64793b6f4c2e5ae1[m
+Merge: 9d994cb 7486547
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 17 15:20:53 2021 +0530
+
+    Merge pull request #59 from runtime-error2905/main
+    
+    Created  Matrix Multiplication java file
+
+[33mcommit 74865471c35706ba881fbb228a498e52cff7a889[m
+Author: SAURABH KUMAR <86124127+runtime-error2905@users.noreply.github.com>
+Date:   Sun Oct 17 15:14:14 2021 +0530
+
+    Created  Matrix Multiplication java file
+    
+    Implementation of Matrix Multiplication
+
+[33mcommit 9d994cb1183aaeae25aa39343fb2243ee76d47ab[m
+Merge: 6480868 ae90ff0
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 17 03:46:37 2021 +0530
+
+    Merge pull request #54 from vipu18/main
+    
+    Create java_database_connectivity.java
+
+[33mcommit 64808683696d5407186d5481201d85484f28afc0[m
+Merge: d24f775 e7df62c
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 17 03:46:15 2021 +0530
+
+    Merge pull request #53 from krishnapalS/patch-2
+    
+    Create BST.java
+
+[33mcommit d24f7759aaf1ef6670a4529fc6e4ce0eae551400[m
+Merge: 6353c4b 48c08c6
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 17 03:45:44 2021 +0530
+
+    Merge pull request #52 from khushi200701/pr2
+    
+    climbing-stairs-leetcode
+
+[33mcommit 6353c4b0c4d007de86a599a5694d63613b614589[m
+Merge: 2418c57 a09f97c
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 17 03:45:17 2021 +0530
+
+    Merge pull request #51 from Priya-shan/main
+    
+    Added 3 Programs - Breakdigit, ReverseArray, RandomNumberGenerator
+
+[33mcommit 2418c5794d11007ffe0006d755bdcf5f2ac7cf41[m
+Merge: af0ea0d 3f35faf
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 17 03:44:49 2021 +0530
+
+    Merge pull request #50 from nawodyaonline/main
+    
+    ArrayList iteration ways
+
+[33mcommit af0ea0de41ecf6e839d19851833cc4eeae727cfe[m
+Merge: f0b6e7a 02f48ce
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 17 03:44:27 2021 +0530
+
+    Merge pull request #49 from AbhinandanAdhikari/Java-Factorial
+    
+    JAVA Program to Calculate Factorial of a Number
+
+[33mcommit f0b6e7ad30dc0dfdab612d079639d92929cdb7e9[m
+Merge: 0c8c846 bc10764
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 17 03:43:59 2021 +0530
+
+    Merge pull request #48 from harsh827/main
+    
+    Hash-Table-In-Java
+
+[33mcommit 0c8c8469f84c3783a6b51179912ef8762ac6be54[m
+Merge: e145051 2b25423
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 17 03:43:30 2021 +0530
+
+    Merge pull request #47 from hitesh181/main
+    
+    Added java program to convert string to lower case
+
+[33mcommit e14505181431a5306dda9fa8cd25e9ff525c9d8b[m
+Merge: 3183266 2b5d76d
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 17 03:43:05 2021 +0530
+
+    Merge pull request #55 from JayNakum/main
+    
+    Adding programs of JavaApplets
+
+[33mcommit 31832669b94b7e243abb8f31d24d49dd97ca0e9e[m
+Merge: 39b3342 bd7b643
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 17 03:42:35 2021 +0530
+
+    Merge pull request #56 from Omkar0114/main
+    
+    Create sqrt.java
+
+[33mcommit 39b33423e913352cd4f8c7b5ff9cf870b8503611[m
+Merge: bd1743c 9db8388
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 17 03:42:05 2021 +0530
+
+    Merge pull request #57 from DasuniMaheshika/main
+    
+    Create GreatestCommonDivisor.java
+
+[33mcommit 9db83887461410bbc7472218737e4ad2d02da8e6[m
+Author: Dasuni Udugama Sooriyage <58808249+DasuniMaheshika@users.noreply.github.com>
+Date:   Fri Oct 15 22:59:45 2021 +0530
+
+    Create GreatestCommonDivisor.java
+    
+    Finding Greatest Common Divisor using Java
+
+[33mcommit bd7b6431ed65dae507f0594d8f3621b3f51cb200[m
+Author: Omkar kulkarni <88308267+Omkar0114@users.noreply.github.com>
+Date:   Fri Oct 15 17:49:39 2021 +0530
+
+    Create sqrt.java
+
+[33mcommit 2b5d76d44d4dc7c7fe2360c8e5f30be6db39889a[m
+Author: Jay Nakum <nakum.jay.m@gmail.com>
+Date:   Fri Oct 15 16:46:24 2021 +0530
+
+    Added an example program of AWT Elements and behaviour
+
+[33mcommit b68f7d643b85b0d178a420c436cd4ffe2d5674d1[m
+Author: Jay Nakum <nakum.jay.m@gmail.com>
+Date:   Thu Oct 14 09:50:42 2021 +0530
+
+    Added basic programs of JavaApplets
+
+[33mcommit ae90ff06e0133c65e2dc678fb9f1f464ae4cc6a8[m
+Author: Vipanshu Suman <73050057+vipu18@users.noreply.github.com>
+Date:   Wed Oct 13 19:50:50 2021 +0530
+
+    Create java_database_connectivity.java
+
+[33mcommit bd1743cb567ef0b0821738cdf8bd5855d522ebdd[m
+Merge: 56f1568 4a640b0
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Wed Oct 13 10:02:47 2021 +0530
+
+    Merge pull request #46 from tushar152/main
+    
+    Create amstrongNumber.java
+
+[33mcommit e7df62c19ef4611f77a138e20f961d4e0389c101[m
+Author: Krishna Pal Deora <47516664+krishnapalS@users.noreply.github.com>
+Date:   Tue Oct 12 22:04:56 2021 +0530
+
+    Create BST.java
+
+[33mcommit 48c08c6f52cf167c750ad34ae8d2867d485a68d4[m
+Author: Khushi <58480229+khushi200701@users.noreply.github.com>
+Date:   Tue Oct 12 11:08:16 2021 +0530
+
+    climbing-stairs-leetcode
+
+[33mcommit a09f97c10f05dea8560aca12f3c561163cbfe570[m
+Author: Shanmuga Priya M <67195594+Priya-shan@users.noreply.github.com>
+Date:   Tue Oct 12 03:42:30 2021 +0530
+
+    Create ReverseArray.java
+
+[33mcommit 98c8bcc0c55bd055808e94150effa76e78e8cbef[m
+Author: Shanmuga Priya M <67195594+Priya-shan@users.noreply.github.com>
+Date:   Tue Oct 12 03:41:39 2021 +0530
+
+    Create RandomNumber.java
+
+[33mcommit 0da1876a8228281be330440df8c223c16c85f33c[m
+Author: Shanmuga Priya M <67195594+Priya-shan@users.noreply.github.com>
+Date:   Tue Oct 12 03:40:44 2021 +0530
+
+    Create BreakDigit.java
+
+[33mcommit 3f35fafae45d7b28ab6cbb999a59979b6386d633[m
+Author: Nawodya Jayalath <nawodyaonline@gmail.com>
+Date:   Mon Oct 11 22:02:46 2021 +0530
+
+    ArrayList iteration ways
+
+[33mcommit 02f48ce48f3d7421f35fcfc743eca2dcd334f98d[m
+Author: Abhinandan Adhikari <abhinandan.adhikari2002@gmail.com>
+Date:   Mon Oct 11 21:46:38 2021 +0530
+
+    Added Java Program to find Factorial
+
+[33mcommit bc107643ecc60643596c7a7ce250cc22398bbe20[m
+Author: Harsh Kumar <73309402+harsh827@users.noreply.github.com>
+Date:   Mon Oct 11 21:07:02 2021 +0530
+
+    Create knight__tour.java
+
+[33mcommit 989620e46ef9002044ebc70b312606248d05dea0[m
+Author: Harsh Kumar <73309402+harsh827@users.noreply.github.com>
+Date:   Mon Oct 11 21:00:44 2021 +0530
+
+    Rename hash_table_implementation.java to hash_table_code.java
+
+[33mcommit 66cf8d914a4adaa25d0ded1980a8d95a250c7886[m
+Author: Harsh Kumar <73309402+harsh827@users.noreply.github.com>
+Date:   Mon Oct 11 20:58:23 2021 +0530
+
+    Hash-Table-In-Java
+    
+    Implementation of hash table in java
+
+[33mcommit 2b2542376046302d0bfbb5b448cdea526dbd47c3[m
+Author: Hitesh Sharma <68909492+hitesh181@users.noreply.github.com>
+Date:   Sun Oct 10 00:25:07 2021 +0530
+
+    Added java program to convert string to lower case
+
+[33mcommit 4a640b018e3a66d5b91488c68055d576d4838b47[m
+Author: Tushar Garg <61476389+tushar152@users.noreply.github.com>
+Date:   Sat Oct 9 02:45:45 2021 +0530
+
+    Update ShellSort.java
+
+[33mcommit e4fba59f8bb18b0068f7f05cf7d60cbc9eadca33[m
+Author: Tushar Garg <61476389+tushar152@users.noreply.github.com>
+Date:   Sat Oct 9 02:43:27 2021 +0530
+
+    Update QuickSort.java
+
+[33mcommit 0f3bfc6479917a99c95beb9ae6c58f02b8eb4cba[m
+Author: Tushar Garg <61476389+tushar152@users.noreply.github.com>
+Date:   Sat Oct 9 02:39:45 2021 +0530
+
+    Update Echo.java
+
+[33mcommit d2a0d1de9338084467a0f6432d78a56f9e579b64[m
+Author: Tushar Garg <61476389+tushar152@users.noreply.github.com>
+Date:   Sat Oct 9 02:38:10 2021 +0530
+
+    Update Harry.java
+
+[33mcommit 90c990d416cb172c81abbe6a1f78364227504f39[m
+Author: Tushar Garg <61476389+tushar152@users.noreply.github.com>
+Date:   Sat Oct 9 02:36:54 2021 +0530
+
+    Update Fibonacci.java
+
+[33mcommit d681b531664de96311acc8ec929290124e4dde0f[m
+Author: Tushar Garg <61476389+tushar152@users.noreply.github.com>
+Date:   Sat Oct 9 02:32:49 2021 +0530
+
+    Update BubbleSort.java
+
+[33mcommit c4c33de312bc64624aa399a5055b0e1f1d0de292[m
+Author: Tushar Garg <61476389+tushar152@users.noreply.github.com>
+Date:   Sat Oct 9 02:30:40 2021 +0530
+
+    Create armstrongNumber.java
+
+[33mcommit 56f1568082bc3a7cee1c1973b1669734c5232c20[m
+Merge: 272b0de 63076ca
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sat Oct 9 00:50:02 2021 +0530
+
+    Merge pull request #45 from hitesh181/main
+    
+    Adding java program for Number Diamond pattern
+
+[33mcommit 63076cac6f70b6644f3bfeb83a727fec57d35acb[m
+Author: Hitesh Sharma <68909492+hitesh181@users.noreply.github.com>
+Date:   Sat Oct 9 00:48:43 2021 +0530
+
+    Adding java program for Number Diamond pattern
+
+[33mcommit 272b0de7fe136935eff1c734c847bb50d00c67c0[m
+Merge: c3cbdc8 28f5a86
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Tue Oct 5 23:33:22 2021 +0530
+
+    Merge pull request #43 from AbhinandanAdhikari/java-prime
+    
+    Java Program to Check whether the Number is Prime or Not.
+
+[33mcommit 28f5a867f76d741aa0f30cbf50c58b9ee8ab4d58[m
+Author: Abhinandan Adhikari <abhinandan.adhikari2002@gmail.com>
+Date:   Tue Oct 5 21:37:10 2021 +0530
+
+    Java code for Prime Number
+
+[33mcommit c3cbdc81e7e8cdfe29026c62a0d2b3ad30d04672[m
+Merge: df90af7 d8eeed0
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 19:41:50 2021 +0530
+
+    Merge pull request #42 from Saurabh2509/main
+    
+    Stack java
+
+[33mcommit df90af71ecf8ce34a11a1b80ab827b35c9264a4e[m
+Merge: 2deb06c d8ad866
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 19:41:31 2021 +0530
+
+    Merge pull request #41 from abhijeet49/main
+    
+    Added MultiClassDemo.java file
+
+[33mcommit d8eeed0ce24ef7fc8e9981bf88ed84959326ce17[m
+Author: Saurabh Kumar <54509629+Saurabh2509@users.noreply.github.com>
+Date:   Mon Oct 4 19:40:55 2021 +0530
+
+    Stack java
+    
+    Implementation Stack java
+
+[33mcommit 2deb06c045307fbdb7e92b4bf38234b234c0a62c[m
+Merge: af7068c ae5f2a4
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 19:39:24 2021 +0530
+
+    Merge pull request #40 from Saurabh2509/main
+    
+    Vector.java
+
+[33mcommit d8ad86677256958329673336846f60f3ec0865d1[m
+Author: Abhijeet Kumar Ghosh <60868332+abhijeet49@users.noreply.github.com>
+Date:   Mon Oct 4 19:38:21 2021 +0530
+
+    Add files via upload
+
+[33mcommit ae5f2a458fe1047fae2920db41b414ad693be5e2[m
+Author: Saurabh Kumar <54509629+Saurabh2509@users.noreply.github.com>
+Date:   Mon Oct 4 19:36:52 2021 +0530
+
+    Vector.java
+    
+    Vector Implementation
+
+[33mcommit af7068ca434479e214cacb0798b39371ec65f974[m
+Merge: 542c967 748f139
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 19:34:53 2021 +0530
+
+    Merge pull request #39 from Saurabh2509/main
+    
+    ArrayList.java
+
+[33mcommit 748f139303a8d6a80d9fecb5863ae4376c5e836c[m
+Author: Saurabh Kumar <54509629+Saurabh2509@users.noreply.github.com>
+Date:   Mon Oct 4 19:34:11 2021 +0530
+
+    ArrayList.java
+    
+    Arraylist.java Added
+
+[33mcommit 542c967710ed7d5f0ae8f6feb1b61a0089aaa149[m
+Merge: eaac131 6ae4418
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 19:28:37 2021 +0530
+
+    Merge pull request #38 from Saurabh2509/main
+    
+    Added Linkedlistdeque.java
+
+[33mcommit 6ae4418eba750d92db1cd118331aa68861834c25[m
+Author: Saurabh Kumar <54509629+Saurabh2509@users.noreply.github.com>
+Date:   Mon Oct 4 19:26:49 2021 +0530
+
+    Added Linkedlistdeque.java
+
+[33mcommit eaac131784e1150c82a03fbc7d99853e6f225a94[m
+Merge: 5dedb79 2101153
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 19:24:30 2021 +0530
+
+    Merge pull request #37 from Saurabh2509/main
+    
+    Add files via upload
+
+[33mcommit 2101153ddf1238230e44eb5d1e7ff20df274b71f[m
+Author: Saurabh Kumar <54509629+Saurabh2509@users.noreply.github.com>
+Date:   Mon Oct 4 19:22:58 2021 +0530
+
+    Add files via upload
+
+[33mcommit 5dedb79662c550c22ede932516e87c68539598da[m
+Merge: 0b6fe20 3d09c77
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 18:16:06 2021 +0530
+
+    Merge pull request #36 from aarush2410/main
+    
+    isbn
+
+[33mcommit 3d09c778b275b8d637524571765eab9719a18b36[m
+Author: aarush2410 <76821730+aarush2410@users.noreply.github.com>
+Date:   Mon Oct 4 18:15:32 2021 +0530
+
+    isbn
+
+[33mcommit 0b6fe20b4dbfff4823e7df22282b8a629878eba6[m
+Merge: 9dda5aa 16722e2
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 18:15:24 2021 +0530
+
+    Merge pull request #35 from VinayKumar1512/main
+    
+    Print Maze Paths
+
+[33mcommit 9dda5aa47a02c57e9bd7678470b6db69dc4f39d8[m
+Merge: 387313e 7513bb0
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 18:12:22 2021 +0530
+
+    Merge pull request #34 from aarush2410/main
+    
+    sunny
+
+[33mcommit 7513bb082df6ff03139c5d7f7c525f6c9fd0bf91[m
+Author: aarush2410 <76821730+aarush2410@users.noreply.github.com>
+Date:   Mon Oct 4 18:11:54 2021 +0530
+
+    evil
+
+[33mcommit 7e092492a1a34460aafd74bc920e618ea73665a8[m
+Author: aarush2410 <76821730+aarush2410@users.noreply.github.com>
+Date:   Mon Oct 4 18:11:00 2021 +0530
+
+    evil
+
+[33mcommit 16722e2c33910e4b06b4820101a4ba79692488a1[m
+Author: Vinay Kumar <79040443+VinayKumar1512@users.noreply.github.com>
+Date:   Mon Oct 4 18:10:02 2021 +0530
+
+    Add files via upload
+
+[33mcommit 72fc3c67ec4d4782bf95ab485e58c6a8f013cca2[m
+Author: aarush2410 <76821730+aarush2410@users.noreply.github.com>
+Date:   Mon Oct 4 18:09:11 2021 +0530
+
+    sunny
+
+[33mcommit 387313ee164367f2b376d825e914f7cdc0576680[m
+Merge: a12b2f3 cf3ead0
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 18:07:36 2021 +0530
+
+    Merge pull request #33 from aarush2410/main
+    
+    left triangle
+
+[33mcommit cf3ead07bcbe67f303f465593d7036a27aa2596c[m
+Author: aarush2410 <76821730+aarush2410@users.noreply.github.com>
+Date:   Mon Oct 4 18:07:13 2021 +0530
+
+    ascii
+
+[33mcommit 1061f922e5e0eedaa51e2c774055b65c3394723b[m
+Author: aarush2410 <76821730+aarush2410@users.noreply.github.com>
+Date:   Mon Oct 4 18:05:32 2021 +0530
+
+    left triangle
+
+[33mcommit a12b2f3edb00303f376582ab5afa54945d47e2a4[m
+Merge: 589a725 076e8bb
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 18:04:30 2021 +0530
+
+    Merge pull request #32 from aarush2410/main
+    
+    jdbc java
+
+[33mcommit 589a725473f49c01199799a1426d92aa1670bb8a[m
+Merge: 5213ecc 4b20b7b
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 18:03:56 2021 +0530
+
+    Merge pull request #30 from bodhiaditya/main
+    
+    Binary Tree Traversals.
+
+[33mcommit 076e8bb729d1c6b3b6b4d4785b397b5c7ae2f781[m
+Author: aarush2410 <76821730+aarush2410@users.noreply.github.com>
+Date:   Mon Oct 4 18:03:39 2021 +0530
+
+    jdbc java
+
+[33mcommit 5213eccaddeba851daeb7c3f613bf2510ba183d5[m
+Merge: 02ba74f 2df327d
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 18:03:31 2021 +0530
+
+    Merge pull request #31 from aarush2410/main
+    
+    Fibonnaci program
+
+[33mcommit 2df327d03a90f566af40e4c168e42cb31a34635c[m
+Author: aarush2410 <76821730+aarush2410@users.noreply.github.com>
+Date:   Mon Oct 4 18:01:10 2021 +0530
+
+    Fibonnaci program
+
+[33mcommit 4b20b7baa300e1ff9cb92f2b100487071a61c62a[m
+Author: Aditya <kanakamedalabodhiaditya@gmail.com>
+Date:   Mon Oct 4 12:56:18 2021 +0530
+
+    BinaryTree Traversals.
+
+[33mcommit 02ba74f06004791c9e1bd82663636a26b20d6320[m
+Merge: 229a794 41ca5cb
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 12:36:08 2021 +0530
+
+    Merge pull request #29 from abhijeet49/main
+    
+    Added evenodd.java file
+
+[33mcommit 229a7946abdd6fda23375d2575b14403858f4a0a[m
+Merge: fcf207b b4612f6
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 12:35:03 2021 +0530
+
+    Merge pull request #28 from vaibhavss08/main
+    
+    Create InsertionSort.java
+
+[33mcommit 41ca5cb0abb74e0679a8d05cfdcfd2dc67b0dc51[m
+Author: Abhijeet Kumar Ghosh <60868332+abhijeet49@users.noreply.github.com>
+Date:   Mon Oct 4 12:34:51 2021 +0530
+
+    Add files via upload
+
+[33mcommit b4612f631ba24f32316dddec5934b09d35b1eb2c[m
+Author: vaibhavss08 <81666621+vaibhavss08@users.noreply.github.com>
+Date:   Mon Oct 4 12:32:29 2021 +0530
+
+    Create InsertionSort.java
+
+[33mcommit fcf207b19c5f06f289c2435a5229f4300cf42e9c[m
+Merge: 5c156e4 db052ac
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 12:30:06 2021 +0530
+
+    Merge pull request #27 from abhijeet49/main
+    
+    Added SegmentTreeRMQ.java file
+
+[33mcommit db052acd79db569dac99fe8258f4337e19d1a02e[m
+Author: Abhijeet Kumar Ghosh <60868332+abhijeet49@users.noreply.github.com>
+Date:   Mon Oct 4 12:28:37 2021 +0530
+
+    Added SegmentTreeRMQ.java file
+
+[33mcommit 5c156e46e4acbebfde1d88c17b76b25a6171673b[m
+Merge: 2c4cf5c 6f4bba2
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 12:24:47 2021 +0530
+
+    Merge pull request #26 from shivu2806/main
+    
+    added priorityQueue.java
+
+[33mcommit 6f4bba2515d7a4a81fc42c012b038d2315f8d6e7[m
+Author: shivu2806 <91802335+shivu2806@users.noreply.github.com>
+Date:   Mon Oct 4 12:23:50 2021 +0530
+
+    initial commit
+
+[33mcommit 2c4cf5c983f9a56180818a028afd5ca664753cd3[m
+Merge: 1d21e56 b032dd9
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 01:00:54 2021 +0530
+
+    Merge pull request #23 from Zaman3027/Mahafuz
+    
+    added mergesort
+
+[33mcommit 1d21e56579ce12d90f965af757a608e17db3e983[m
+Merge: 2fe4d59 5df51a4
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 01:00:31 2021 +0530
+
+    Merge pull request #24 from TharinduK97/addpro
+    
+    Day time server
+
+[33mcommit 2fe4d59efdfd89d70322da4c752cb370b4d39faa[m
+Merge: 70f42f6 19fc6b7
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Mon Oct 4 01:00:10 2021 +0530
+
+    Merge pull request #25 from abhijeet49/main
+    
+    Added Frequency.java file
+
+[33mcommit 19fc6b7267e44f9c9e04564f9184bb089526d1e1[m
+Author: Abhijeet Kumar Ghosh <60868332+abhijeet49@users.noreply.github.com>
+Date:   Mon Oct 4 00:58:12 2021 +0530
+
+    Added Frequency.java file
+
+[33mcommit 5df51a4a50425241e70b2b739cba2967376925aa[m
+Author: Tharindu Kumarasinghe <57245404+TharinduK97@users.noreply.github.com>
+Date:   Sun Oct 3 23:40:05 2021 +0530
+
+    Day time server
+
+[33mcommit b032dd91c016b6730eda28e2ac9e01a4b8db8c97[m
+Author: Zaman3027 <zamanapp@outlook.com>
+Date:   Sun Oct 3 22:43:12 2021 +0530
+
+    added mergesort
+
+[33mcommit 70f42f6dcf67b7ca6ae429deb3e76b900898696b[m
+Merge: c2a26a9 20b02a3
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 22:29:11 2021 +0530
+
+    Merge pull request #22 from Ayush167/main
+    
+    Sample4.java
+
+[33mcommit 20b02a3abcacebc34104e6167b6f9211c07a1cf6[m
+Author: Ayush167 <57669505+Ayush167@users.noreply.github.com>
+Date:   Sun Oct 3 22:27:11 2021 +0530
+
+    Add files via upload
+
+[33mcommit c2a26a9704d0eb68b584fc53c510fb3fac3ed254[m
+Merge: b3821e1 23ccdca
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 22:26:34 2021 +0530
+
+    Merge pull request #21 from Ayush167/main
+    
+    Sample3.java
+
+[33mcommit 23ccdca903cbc84665b2663498ea4dcc4ccacdb1[m
+Author: Ayush167 <57669505+Ayush167@users.noreply.github.com>
+Date:   Sun Oct 3 22:25:11 2021 +0530
+
+    Add files via upload
+
+[33mcommit 1ff36d20ffeb94fe8ecb295deeb0b18caf868670[m
+Author: Ayush167 <57669505+Ayush167@users.noreply.github.com>
+Date:   Sun Oct 3 22:24:32 2021 +0530
+
+    Add files via upload
+
+[33mcommit b3821e1a7c892324aff8d97d61e20626e1ba9aec[m
+Merge: 97239c7 00ebf9f
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 22:23:42 2021 +0530
+
+    Merge pull request #20 from Ayush167/main
+    
+    Sample2.java
+
+[33mcommit 00ebf9fd67e373f43069815f2af42ec7cdef8604[m
+Author: Ayush167 <57669505+Ayush167@users.noreply.github.com>
+Date:   Sun Oct 3 22:22:40 2021 +0530
+
+    Add files via upload
+
+[33mcommit 97239c756450d01997598ecf4c57ecc6c277a886[m
+Merge: 45f3a2c 50d194f
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 22:21:14 2021 +0530
+
+    Merge pull request #19 from Ayush167/main
+    
+    Ayush.java
+
+[33mcommit 50d194f441966f39c5d28ced8d81e299f024c66c[m
+Author: Ayush167 <57669505+Ayush167@users.noreply.github.com>
+Date:   Sun Oct 3 22:19:21 2021 +0530
+
+    Add files via upload
+
+[33mcommit 45f3a2c9b76d9f549f60fb61b5b2c87b530e6adc[m
+Merge: ef4e1f8 dd1594e
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 22:17:03 2021 +0530
+
+    Merge pull request #16 from MarkoKosmajac/java-aes-encryption-decryption
+    
+    AES java algorithm
+
+[33mcommit ef4e1f865ffc4faa8df935ebcbdd001d66ca2800[m
+Merge: ced9b07 63fc7ba
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 22:16:02 2021 +0530
+
+    Merge pull request #18 from Ayush167/main
+    
+    Sample.java
+
+[33mcommit ced9b07706b0e4fcba7cd2bf7a6f3ce45b25b9ab[m
+Merge: c9a2bd7 0a14a84
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 22:15:42 2021 +0530
+
+    Merge pull request #17 from AbhinandanAdhikari/java-zigzag
+    
+    Java Program to Print Numbers in ZigZag Pattern
+
+[33mcommit 63fc7ba3f6ec0d6904048b7235a7f17fa7119720[m
+Author: Ayush167 <57669505+Ayush167@users.noreply.github.com>
+Date:   Sun Oct 3 22:11:30 2021 +0530
+
+    Add files via upload
+
+[33mcommit 0a14a84902119426cb2a1b26332c2dc232ac504a[m
+Author: Abhinandan Adhikari <abhinandan.adhikari2002@gmail.com>
+Date:   Sun Oct 3 19:05:18 2021 +0530
+
+    Java Program for ZigZag Pattern
+
+[33mcommit dd1594e191614653f323be80f647de9b0bff7c09[m
+Author: Thefaxepower <thefaxepower@gmail.com>
+Date:   Sun Oct 3 15:08:05 2021 +0200
+
+    AES java algoritgm
+
+[33mcommit c9a2bd7d1d88754ed706cecacc12b8eb01648e82[m
+Merge: 33f7207 48cf263
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 18:33:47 2021 +0530
+
+    Merge pull request #14 from Venkatesh-24/main
+    
+    Added Shell Sort and Quick Sort
+
+[33mcommit 33f7207e45709fd5254c78d143ff78ef77fca4c6[m
+Merge: 9b77675 4a6b4e8
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 18:33:20 2021 +0530
+
+    Merge pull request #15 from AbhinandanAdhikari/java-bubblesort
+    
+    Added Java program for BubbleSort
+
+[33mcommit 4a6b4e83aca37b9d1f0aad9e010b0b7ab623a775[m
+Author: Abhinandan Adhikari <abhinandan.adhikari2002@gmail.com>
+Date:   Sun Oct 3 13:06:34 2021 +0530
+
+    Added Java program for BubbleSort
+
+[33mcommit 48cf263b12413b438e2ebb8a1254e79faed28bde[m
+Author: Venkatesh-24 <venkateshsundar24@gmail.com>
+Date:   Sun Oct 3 12:40:26 2021 +0530
+
+    Added Shell Sort and Quick Sort
+
+[33mcommit 9b77675c41019004b742d33732d271aad7c9df99[m
+Merge: f23fe73 438e9dc
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 12:28:05 2021 +0530
+
+    Merge pull request #13 from jotdeep/main
+    
+    Added Longest Common Subsequence
+
+[33mcommit 438e9dc4185cf3abf022fa6387123ce9dd9c8ab4[m
+Author: jotdeep <59995823+jotdeep@users.noreply.github.com>
+Date:   Sun Oct 3 11:47:55 2021 +0530
+
+    Added Longest Common Subsequence
+
+[33mcommit f23fe73c68120192666c909ce7916b7489c4fdeb[m
+Merge: 7b5c2f0 608bfe1
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 11:28:43 2021 +0530
+
+    Merge pull request #12 from abhishekprasad2384/main
+    
+    Create Kth Smallest Element in a BST
+
+[33mcommit 608bfe18584c6c6125c1fd5a5e316c725dc69db6[m
+Author: abhishekprasad2384 <49679013+abhishekprasad2384@users.noreply.github.com>
+Date:   Sun Oct 3 09:10:55 2021 +0530
+
+    Create Kth Smallest Element in a BST
+
+[33mcommit 7b5c2f05f2cec4072561d57e3248385553763a18[m
+Merge: cc5ebe8 8a51e2d
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 08:30:12 2021 +0530
+
+    Merge pull request #11 from dvir019/patch-1
+    
+    Create ArraySum.java
+
+[33mcommit 8a51e2d8848909baf0f453a323f08d9f072880bd[m
+Author: dvir019 <30556126+dvir019@users.noreply.github.com>
+Date:   Sun Oct 3 00:04:21 2021 +0300
+
+    Create ArraySum.java
+
+[33mcommit cc5ebe8f96dcc8ddd0481d7159a4b9ff8b2ac29f[m
+Merge: 2fc7f78 c3c6004
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 01:56:40 2021 +0530
+
+    Merge pull request #10 from Mystery-2-Dev/main
+    
+    Create assendingArray.java
+
+[33mcommit c3c6004d7172cbf0cb9b115d21cefc1661a9b751[m
+Author: Mysterious-Developer <mystery2deve@gmail.com>
+Date:   Sun Oct 3 01:45:53 2021 +0530
+
+    Create assendingArray.java
+
+[33mcommit 2fc7f780c732537a0247b5ebe4dadd08198dddd7[m
+Merge: ab981f3 d093aeb
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 01:32:46 2021 +0530
+
+    Merge pull request #9 from shivu2806/main
+    
+    Create egyptianFraction.java
+
+[33mcommit d093aeb1b99fbd269dd587f18113565455bc6790[m
+Author: shivu2806 <91802335+shivu2806@users.noreply.github.com>
+Date:   Sun Oct 3 01:31:44 2021 +0530
+
+    Create egyptianFraction.java
+
+[33mcommit ab981f397d1542c7400e22c1d180752fbed6d012[m
+Merge: 9f7f6d7 c29394e
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 01:28:43 2021 +0530
+
+    Merge pull request #7 from Raghav-Gupta22/patch-1
+    
+    Create WordCounter.java
+
+[33mcommit 9f7f6d790147aa651ca9c5dd1c3b4e621b5d260f[m
+Merge: c6e8ded 9c6370c
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 01:28:24 2021 +0530
+
+    Merge pull request #8 from shivu2806/main
+    
+    Create wordBreak.java
+
+[33mcommit 9c6370cad4cfc4d276fcb88b90a2b5538d978fa6[m
+Author: shivu2806 <91802335+shivu2806@users.noreply.github.com>
+Date:   Sun Oct 3 01:27:12 2021 +0530
+
+    Create wordBreak.java
+
+[33mcommit c29394e969ec5379e0cb4d6b6856525fb1a369c6[m
+Author: Raghav Gupta <raghavgupta216@gmail.com>
+Date:   Sun Oct 3 01:22:51 2021 +0530
+
+    Create WordCounter.java
+    
+    Java program to count no of words from given input string.
+
+[33mcommit c6e8ded8684faa456e58b28886ae297c9563cd37[m
+Merge: 13407e4 18fad71
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 01:19:28 2021 +0530
+
+    Merge pull request #6 from shivu2806/main
+    
+    topologicalSorting.java
+
+[33mcommit 18fad717d18f7dc5245ab7275993f57c379d5237[m
+Author: shivu2806 <91802335+shivu2806@users.noreply.github.com>
+Date:   Sun Oct 3 01:18:37 2021 +0530
+
+    initial
+
+[33mcommit 13407e4a32f14254335732517056689966cba595[m
+Merge: ecb8dab ea0c5ef
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 01:16:21 2021 +0530
+
+    Merge pull request #5 from shivu2806/main
+    
+    matrixChain.java
+
+[33mcommit ea0c5efeb1331bb96aaadee066fc21635d34e787[m
+Author: shivu2806 <91802335+shivu2806@users.noreply.github.com>
+Date:   Sun Oct 3 01:15:57 2021 +0530
+
+    initial
+
+[33mcommit c1cd1d0d54e0fb87eb8b95c4e47008fa4bf3caad[m
+Author: shivu2806 <91802335+shivu2806@users.noreply.github.com>
+Date:   Sun Oct 3 01:11:37 2021 +0530
+
+    createdminCost
+
+[33mcommit 61e4d11a232500888f5083d0e27874720beed9a3[m
+Author: shivu2806 <91802335+shivu2806@users.noreply.github.com>
+Date:   Sun Oct 3 01:10:06 2021 +0530
+
+    initial
+
+[33mcommit ecb8dab7cf908fca7cdd51e529796fb0db8bf544[m
+Merge: 77cbedf d67ac89
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 01:09:07 2021 +0530
+
+    Merge pull request #2 from Mystery-2-Dev/patch-2
+    
+    Create unicode.java
+
+[33mcommit 77cbedfce9ce0551598cb0ec325463479143b061[m
+Merge: bfaaf6e 55f5394
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 01:08:55 2021 +0530
+
+    Merge pull request #3 from Mystery-2-Dev/patch-3
+    
+    Create diagonalSum.java
+
+[33mcommit bfaaf6e825b5e90869ef094db4346382f32ad061[m
+Merge: 4ca4062 855ff4c
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 01:08:39 2021 +0530
+
+    Merge pull request #4 from Mystery-2-Dev/patch-4
+    
+    Create ElementbetweenArray.java
+
+[33mcommit 855ff4c2741aa2aed6397f2d3ac90c3eda16afaa[m
+Author: Mysterious-Developer <mystery2deve@gmail.com>
+Date:   Sun Oct 3 01:06:33 2021 +0530
+
+    Create ElementbetweenArray.java
+
+[33mcommit 55f53948528ec3af742f2f1a029333fbe0fa3d0f[m
+Author: Mysterious-Developer <mystery2deve@gmail.com>
+Date:   Sun Oct 3 01:04:12 2021 +0530
+
+    Create diagonalSum.java
+
+[33mcommit d67ac89ef8dadecc551869527c8c3ff1dc36691f[m
+Author: Mysterious-Developer <mystery2deve@gmail.com>
+Date:   Sun Oct 3 01:01:39 2021 +0530
+
+    Create unicode.java
+
+[33mcommit 4ca4062476c02e93e6f3d09cefdc3f95c21f9997[m
+Merge: cb261a8 27842f6
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 00:59:51 2021 +0530
+
+    Merge pull request #1 from Mystery-2-Dev/patch-1
+    
+    Create stringUsage.java
+
+[33mcommit 27842f6aa1c5d66affde842d145e287ac09c1a7d[m
+Author: Mysterious-Developer <mystery2deve@gmail.com>
+Date:   Sun Oct 3 00:59:13 2021 +0530
+
+    Create stringUsage.java
+
+[33mcommit cb261a847ae6006a89ddcba8fe2d88523cadb4da[m
+Author: Aakash kumar sahoo <56172886+jvm-coder@users.noreply.github.com>
+Date:   Sun Oct 3 00:55:18 2021 +0530
+
+    Initial commit
