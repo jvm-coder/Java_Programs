@@ -16,7 +16,7 @@ public class ArrayListIteration {
             System.out.println(course);
         }
 
-        //basic loop with iterator
+        //basic loop with iterato
         for(Iterator<String> iterator = courses.iterator();iterator.hasNext();){
             String course = (String)iterator.next();
             System.out.println(course);
